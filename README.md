@@ -17,7 +17,6 @@
   Logger.log(JSONresult['namedValues'])</code></li>
   <li>Go to the trigger menu and add a triger where the function is <b>mySubmit</b> and event type is <b>on form submit</b>. This might require some permissions which you can accept at that moment.</li>
   <li>Go back to your editor, select the <b>createTrigger</b> function and run it. This might require some permissions which you can accept at that moment</li>
-  <li>Create a google form and link a spreadsheet to it.</li>
   <li>Select the <b>sendEmail</b> function and run it. This might require some permissions which you can accept at that moment</li>
   <li>That sould do it - you can try by submitting a response in your form!</li>
 </ul>
