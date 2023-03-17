@@ -23,7 +23,7 @@
 
 <h3>Link to a video showcasing the script</h3>
 
-- [LinkedIn Video](https://linkedin.com)
+- [LinkedIn Video](https://www.linkedin.com/posts/ishmamchowdhury_work-automation-google-activity-7042482071579086848-hWF5?utm_source=share&utm_medium=member_desktop)
 
 
 <h3>Author</h3>
